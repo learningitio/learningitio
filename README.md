@@ -3,12 +3,6 @@
 [![Website]](https://learning-it.io)
 
 
-<!--
-
-
-
-
--->
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
@@ -103,7 +97,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://www.learning-it.io
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
