@@ -1,9 +1,9 @@
-### Hi there I am Philip, Owner of [LearningIT][website] 👋
+## Hi there I am Philip, Owner of [LearningIT][website] 👋
 
 
 
 
-## I'm a student of Business Informatics at Mannheim 👨‍🎓, Microsoft Student Ambassador 💻  and sharing knowledge about IT on YouTube 💻 📺
+### I'm a student of Business Informatics at Mannheim 👨‍🎓, Microsoft Student Ambassador 💻  and sharing knowledge about IT on YouTube 💻 📺
 
 
 ### Connect with me:
